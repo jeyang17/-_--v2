@@ -1,0 +1,6 @@
+{
+  "name": "양정은 자기소개 페이지",
+  "description": "수영, 통기타, 넷플릭스를 좋아하는 양정은의 아름답고 깔끔한 자기소개 및 연락처 웹사이트입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
